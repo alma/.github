@@ -25,4 +25,4 @@ Python (FastAPI, Flask, pytest), TypeScript (React), PHP (extensions for Shopify
 
 Check [our LinkedIn page](https://www.linkedin.com/company/alma-alma-alma) and [our profile on Welcome to the Jungle](https://www.welcometothejungle.com/fr/companies/alma).
 
-Join US! 🤗
+[Join us!](https://boards.eu.greenhouse.io/alma31) 🤗
