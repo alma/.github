@@ -4,7 +4,9 @@ At Alma, we put finance at the service of commerce by allowing merchants to incr
 
 📍 We are [already deployed](https://getalma.eu/global) in 🇫🇷 France, 🇧🇪 Belgium, 🇩🇪 Germany, 🇪🇸 Spain, 🇮🇹 Italy and 🇱🇺 Luxemburg.
 
+<!---
 <img src="profile/assets/almakers.png" alt="Almakers" width="33%">
+--->
 
 ![Alma Team](https://cdn-images.welcometothejungle.com/XM9u0qWYYaO2dqAU3YqhJzZ9OXRPj3oTj8k3JMROBSk/rs:auto:2000:450:/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy93ZWJzaXRlX29yZ2FuaXphdGlvbi9jb3Zlcl9pbWFnZS93dHRqX2ZyL2ZyLWYyNTg5M2ZjLTYxMTMtNDk0MS1iMDE4LWU1Zjk2YjIyMTRkZS5qcGc)
 
