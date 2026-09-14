@@ -1,62 +1,19 @@
-# :wave: Hey, we are Almakers!
+<img width="1584" height="396" alt="Banner-Linkedin_Almakers_Libere-le-commerce-Orange_EN" src="https://github.com/user-attachments/assets/c345d4bd-e56b-4e91-a672-3a2bd0a304e8" />
 
-At Alma, we put finance at the service of commerce by allowing merchants to increase their sales by 20% on average. With Alma, the customer pays later, but the merchant gets paid right away with no risk taken.
+Alma turns payments into a simple, powerful tool: For merchants, it drives growth. For consumers, it offers the freedom to choose without limits.
 
-📍 We are [already deployed](https://almapay.com/global) in 🇫🇷 France, 🇧🇪 Belgium, 🇩🇪 Germany, 🇪🇸 Spain, 🇮🇹 Italy and 🇱🇺 Luxemburg.
+Founded in 2018, Alma now serves **25,000+ merchants** across Europe and has enabled **10M+ consumers** to successfully purchase with Alma. Operating across **10 European countries**, Alma has processed **€9.7B+ in transaction volume** since launch.
 
-![Alma Team](https://cdn-images.welcometothejungle.com/gSV6d6HakL4OxIZynSFw-up0ZWUJdL5Nskg4gqSSbBM/rs:auto:2000:450:/g:fp:0:0.50/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy93ZWJzaXRlX29yZ2FuaXphdGlvbi9jb3Zlcl9pbWFnZS93dHRqX2ZyL2VuLTFhOTkwOWU2LTkwNjAtNDQwNC1iYjVjLWRhMzBhYjU4ZTdmOC5qcGc)
+Join us! 🤗 
 
-## Our stack
+## Useful links
+Check out our [website](https://almapay.com/), [LinkedIn page](https://www.linkedin.com/company/alma-alma-alma) and [Welcome to the Jungle profile](https://www.welcometothejungle.com/fr/companies/alma).
 
-* Python (FastAPI, Flask, SQLAlchemy, Pytest, extension for Shopify)
-* PHP (extensions for Adobe Commerce, Sylius, WooCommerce, Prestashop, …)
-* TypeScript (React)
-* PostgreSQL
-* Docker
-* Google Cloud Platform
-* Salesforce Commerce Cloud
+## **Our stack**
 
-## Our Values
-
-<dl>
-  <dt>Test, learn, repeat</dt>
-  <dd>
-    <ul>
-      <li>We know we rarely get it right the first time.</li>
-      <li>We accept failure: we either win or learn.</li>
-    </ul>
-  </dd>
-  <dt>Raise the bar</dt>
-  <dd>
-    <ul>
-      <li>We continuously improve the way we work, both individually and collectively.</li>
-      <li>We strive to make Alma better tomorrow than it is today for consumers, merchants, partners and Almakers.</li>
-    </ul>
-  </dd>
-  <dt>Do the right thing</dt>
-  <dd>
-    <ul>
-      <li>We handle a lot of funds and treat this responsibility seriously.</li>
-      <li>We are proud to embed integrity in our business model and day-to-day life.</li>
-    </ul>
-  <dt>Make it happen</dt>
-  <dd>
-    <ul>
-      <li>We have a bias for action.</li>
-      <li>We remember that it is not the organization that gets things done, but people that work together.</li>
-    </ul>
-  </dd>
-  <dt>Lead with humility</dt>
-  <dd>
-    <ul>
-      <li>We don't believe in the superhuman.</li>
-      <li>True leaders accept their flaws and are approachable. That's true both among Almakers and with external partners.</li>
-    </ul>
-  </dd>
-</dl>
-
-## Social
-
-Check [our LinkedIn page](https://www.linkedin.com/company/alma-alma-alma) and [our profile on Welcome to the Jungle](https://www.welcometothejungle.com/fr/companies/alma).
-
-[Join us!](https://boards.eu.greenhouse.io/alma31) 🤗
+- Python (FastAPI, SQLAlchemy, Pytest)
+- PHP (extensions for Adobe Commerce, Sylius, WooCommerce, Prestashop, …)
+- TypeScript (React)
+- PostgreSQL
+- Docker
+- Google Cloud Platform
